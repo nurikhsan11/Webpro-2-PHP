@@ -78,6 +78,12 @@
             </p>
           </a>
         </li>
+        <li class="nav-item">
+          <a href="login.php" class="nav-link active">
+            <i class="nav-icon fas fa-tachometer-alt"></i>
+            <p>login</p>
+          </a>
+        </li>
       </ul>
     </nav>
     <!-- /.sidebar-menu -->
